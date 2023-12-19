@@ -1,18 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
+*** Markdown "reference style" links are used for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
@@ -31,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JohnManalac/midd-foodie">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/public/imgs/readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">MiddFoodie</h3>
@@ -84,7 +77,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `JohnManalac`, `midd-foodie`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Annoyed at clicking a bajillion buttons just to look at the menu? Frustrated at the discrepancy between food items and the actual items being served? MiddFoodie is here to save you! An interactive menu for students to easily view, verify, and rate items. Students are also able to add tags, allergies, and even add their own menu items in a separate unofficial menu. 
+
+Tired of clicking a bajillion buttons just to look at the menu? Fed up with lies? Then say hello to MiddFoodie- a user-friendly and interactive menu designed for students to effortlessly browse, verify, and rate menu items. Beyond that, students can include tags, allergies, and contribute their own menu additions within a dedicated unofficial menu section.
+
+What are you waiting for? Visit the site, create an account with your Middlebury email, and achieve your foodie dreams! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,7 +220,7 @@ Project Link: [https://github.com/JohnManalac/midd-foodie](https://github.com/Jo
 [license-url]: https://github.com/JohnManalac/midd-foodie/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/john-vincent-manalac-1862311b5
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /public/imgs/readme/app-screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
