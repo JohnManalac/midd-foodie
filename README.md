@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JohnManalac/midd-foodie">
-    <img src="/public/imgs/readme/logo.png" alt="Logo" width="80" height="80">
+    <img src="/public/imgs/readme/app-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">MiddFoodie</h3>
@@ -76,8 +76,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Annoyed at clicking a bajillion buttons just to look at the menu? Frustrated at the discrepancy between food items and the actual items being served? MiddFoodie is here to save you! An interactive menu for students to easily view, verify, and rate items. Students are also able to add tags, allergies, and even add their own menu items in a separate unofficial menu. 
 
 Tired of clicking a bajillion buttons just to look at the menu? Fed up with lies? Then say hello to MiddFoodie- a user-friendly and interactive menu designed for students to effortlessly browse, verify, and rate menu items. Beyond that, students can include tags, allergies, and contribute their own menu additions within a dedicated unofficial menu section.
 
