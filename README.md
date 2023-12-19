@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+MiddFoodie - middfoodie@gmail.com
 
 Project Link: [https://github.com/JohnManalac/midd-foodie](https://github.com/JohnManalac/midd-foodie)
 
@@ -201,8 +201,8 @@ Project Link: [https://github.com/JohnManalac/midd-foodie](https://github.com/Jo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
+* [Img Shields](https://shields.io)
+* [README Template](https://github.com/othneildrew/Best-README-Template?tab=readme-ov-file)
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -228,7 +228,7 @@ Project Link: [https://github.com/JohnManalac/midd-foodie](https://github.com/Jo
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Tailwindcss.io]: https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss
+[Tailwindcss.io]: https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss
 [Tailwindcss-url]: https://tailwindcss.com/
 [Typescript.io]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
 [Typescript-url]: https://www.typescriptlang.org/
