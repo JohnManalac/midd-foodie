@@ -34,8 +34,6 @@
   <p align="center">
     An interactive menu application for students at Middlebury College.
     <br />
-    <a href="https://github.com/JohnManalac/midd-foodie"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/JohnManalac/midd-foodie">View Demo</a>
     ·
