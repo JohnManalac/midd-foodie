@@ -230,7 +230,7 @@ Project Link: [https://github.com/JohnManalac/midd-foodie](https://github.com/Jo
 [React-url]: https://reactjs.org/
 [Tailwindcss.io]: https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss
 [Tailwindcss-url]: https://tailwindcss.com/
-[Typescript.io]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[Typescript.io]: https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF&
 [Typescript-url]: https://www.typescriptlang.org/
 [Postgresql.io]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
 [Postgresql-url]: https://www.postgresql.org/
